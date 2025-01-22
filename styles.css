@@ -1,1 +1,43 @@
 /*  your css code here. If applicable */
+*{
+	background-color:#f5f5f5;
+}
+.header{
+	background-color:#011e29;
+	text-align:center;
+	padding:10px;
+}
+
+.header h1{
+	background-color:inherit;
+	color:white;
+}
+
+main{
+	display:flex;
+	gap:10px;
+}
+
+.latest-news-section{
+	background-color:white;
+	width:150px;
+	height:200px;
+	padding:10px;
+}
+
+.pictorial-news-section{
+	text-align:center;
+	background-color:white;
+	width:250px;
+	min-height:500px;
+	padding:20px;
+	border-radius:10px;
+	
+}
+
+img{
+	width:100px;
+	height:100px;
+}
+
+
